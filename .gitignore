@@ -1,0 +1,15 @@
+# Ngrok binary
+ngrok
+
+# Captured victim data - NEVER upload
+sites/*/login_info.txt
+sites/*/victim_ip.txt
+sites/*/usernames.txt
+sites/*/ip.txt
+
+# Screenshots with spaces / originals
+Screenshot *.png
+
+# OS files
+.DS_Store
+Thumbs.db
